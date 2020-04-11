@@ -25,5 +25,6 @@ try {
 
 
 Related:
+* https://github.com/tc39/proposal-optional-catch-binding
 * https://github.com/AndersDJohnson/rfc-js-catch-no-parentheses
 * https://github.com/AndersDJohnson/rfc-js-try-return
